@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security vulnerability
+    url: https://github.com/contributor-license/cla-action/security/advisories/new
+    about: Report privately. Never open a public issue for a security problem.
+  - name: Question or idea
+    url: https://github.com/contributor-license/cla-action/discussions
+    about: Ask a question or float an idea.
+  - name: Bug in the GitHub Action
+    url: https://github.com/contributor-license/cla-action/issues/new/choose
+    about: Report it against cla-action, not here.
