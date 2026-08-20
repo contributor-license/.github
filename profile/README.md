@@ -41,7 +41,7 @@ Full workflow and inputs: [cla-action README](https://github.com/contributor-lic
 
 ## Moving from contributor-assistant/github-action
 
-That project was [archived on 2026-08-06](https://github.com/contributor-assistant/github-action)
+That project was [archived on 2026-03-23](https://github.com/contributor-assistant/github-action)
 and its maintainer invited the community to continue it. `cla-action` is a
 drop-in replacement. Migration is one line:
 
