@@ -20,7 +20,7 @@
 
 | | |
 | --- | --- |
-| **[cla-action](https://github.com/contributor-license/cla-action)** | GitHub Action. CLA and DCO checks on pull requests, signatures stored in your repository. **Available now.** |
+| **[cla-action](https://github.com/contributor-license/cla-action)** | GitHub Action. CLA and DCO checks on pull requests, signatures stored in your repository. **Available now.** [Roadmap](https://github.com/contributor-license/cla-action/blob/main/ROADMAP.md) |
 | **app** | Hosted service — dashboard and org-wide management, for teams who would rather not run it themselves. *In development.* |
 | **[docs](https://github.com/contributor-license/docs)** | Documentation and brand assets. |
 
