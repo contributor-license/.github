@@ -52,7 +52,7 @@ drop-in replacement. Migration is one line:
 
 Your existing signature file keeps working, nobody re-signs, and the bot adopts
 its previous comment on each open pull request rather than posting a duplicate.
-Behaviour is replicated deliberately, including several inherited quirks, and
+Behavior is replicated deliberately, including several inherited quirks, and
 every intentional difference is written down in
 [SPEC.md](https://github.com/contributor-license/cla-action/blob/main/SPEC.md).
 

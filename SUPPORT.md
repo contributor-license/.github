@@ -22,9 +22,9 @@ questions and ideas.
 
 ## Before reporting a bug
 
-Several behaviours that look like bugs are replicated from the original action
+Several behaviors that look like bugs are replicated from the original action
 on purpose, because changing them would break repositories migrating across.
-They are catalogued in
+They are cataloged in
 [SPEC.md](https://github.com/contributor-license/cla-action/blob/main/SPEC.md) —
 worth a look first.
 
